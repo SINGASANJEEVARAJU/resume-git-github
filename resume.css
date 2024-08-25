@@ -1,0 +1,33 @@
+div{
+    background-color: rgb(164, 222, 38);
+    color:white;
+    font-size: 20;
+}
+#professional{
+    background-color: rgb(67, 34, 234);
+    color:white;
+    font size: 20;
+}
+.work{
+    background: rgb(212, 27, 135);
+    color:white;
+    font-style: normal;
+    font-size: 20;
+}
+#education{
+    background-color: rgb(27, 165, 76);
+    color: white;
+    font-size: 20;
+}
+#academic{
+    background-color: darkorange;
+    color:white;
+    font size:20 ;
+}
+.skills{
+    background-color: aqua;
+    color: white;
+    font-size: 20;
+}
+
+
